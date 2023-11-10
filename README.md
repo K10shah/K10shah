@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @K10shah
-- 👀 I’m interested in Software developement, Artificial Intelligence and Distributed systems
-- 🌱 I’m currently learning Operating System concepts and Advanced Algorithms
+- 👀 Interested in Software design, Artificial Intelligence and Distributed systems
 - 💞️ I’m looking to collaborate on full stack projects, fun hardware/software projects, NLP projects
-- 📫 How to reach me ketan.shah2014@gmail.com
+- 📫 How to reach me? ketan.shah2014@gmail.com
 
 <!---
 K10shah/K10shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
